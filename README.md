@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, My name is Lily, I am a student at Grand Valley State University. I am currently pursuing a bachelor's in Cybersecurity.
 
 <!--
 **lily-schaub/lily-schaub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
